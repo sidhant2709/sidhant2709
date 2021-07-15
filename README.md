@@ -1,6 +1,6 @@
 ![top](https://i.imgur.com/qEiUyzW.png)
 
-### Hi there 👋, Hi, I'm Sidhant
+### Hi there 👋, I'm Sidhant
 
 #### I am an aspiring Full Stack Developer
 
