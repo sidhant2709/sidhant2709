@@ -6,9 +6,10 @@
 
 <hr>
 
-[![I am an aspiring Full Stack Developer](https://scontent.fccu2-2.fna.fbcdn.net/v/t1.6435-9/186522491_1016054259252336_8869795361268344414_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=730e14&_nc_ohc=pmEN2JV3I1UAX_Uxm8Y&_nc_ht=scontent.fccu2-2.fna&oh=5acf4266c7fd6b281a78b51494066795&oe=60CE0AD0)](https://sidhant2709.github.io/)
+[![I am an aspiring Full Stack Developer](Cover.png)](https://sidhant2709.github.io/)
 
 Dedicated and aspiring full stack developer. Capable of writing production-ready code using React.js, Redux, and CSS on the frontend, NodeJS and Express on the backend to build single page applications. Passionate about coding and strongly interested in working in a product based company.
+
 <hr>
 
 - 🌱 I’m currently learning Full Stack Web Develoment
@@ -31,6 +32,7 @@ Dedicated and aspiring full stack developer. Capable of writing production-ready
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)&nbsp;
 <br />
+
 <hr>
 
 <div align="center" >
@@ -57,14 +59,10 @@ Dedicated and aspiring full stack developer. Capable of writing production-ready
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sidhant2709)
 
-
 <hr>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sidhant2709)
 
-
 </div>
 
 ![bottom](https://i.imgur.com/7eZjPnF.png)
-
-
