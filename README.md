@@ -17,27 +17,267 @@ Dedicated full stack developer. Capable of writing production-ready code using R
 
 <hr>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Primary Skills
 
-<br>
 
-![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)&nbsp;
-<br />
-
+<div align="left">
+        <a
+          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="javascript"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            alt="html5"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a
+          href="https://www.w3schools.com/css/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            alt="css3"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+            alt="react"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+            alt="redux"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+            alt="nodejs"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+            alt="express"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+            alt="mongodb"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a
+          href="https://www.typescriptlang.org/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+            alt="typescript"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+            alt="sass"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a href="https://jestjs.io" target="_blank" rel="noreferrer">
+          <img
+            src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
+            alt="jest"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+          <img
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+            alt="git"
+            width="40"
+            height="40"
+          />
+        </a>
+</div>
 <hr>
 
-<div align="center" >
+### 🛠 &nbsp;Secondary Skills
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sidhant2709) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sidhant-kumar-sahoo-08a8291b8//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sidhant.sahoo.270992/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/sid2709) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/https://codesandbox.io/dashboard/home?workspace=f346fb88-dac7-4059-9cac-132f8c10abe6) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sidhant2709.github.io/)
+
+<div align="left" >
+        <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+            alt="vuejs"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+          <img
+            src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+            alt="nextjs"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+            alt="mysql"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+            alt="bootstrap"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
+            alt="cypress"
+            width="40"
+            height="40"
+          />
+        </a>
+</div>
+<hr>
+<h3 align="left">Connect with me:</h3>
+<div align="left" >
+        <a
+          href="https://www.linkedin.com/in/sidhant-kumar-sahoo-08a8291b8/"
+          target="blank"
+          ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="sidhant kumar sahoo"
+            height="30"
+            width="40"
+        /></a>
+        <a href="https://codepen.io/sid2709" target="blank"
+          ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
+            alt="sid2709"
+            height="30"
+            width="40"
+        /></a>
+        <a href="https://codesandbox.com/sahoosidhant92" target="blank"
+          ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg"
+            alt="sahoosidhant92"
+            height="30"
+            width="40"
+        /></a>
+        <a href="https://codepen.io/sid2709" target="blank"
+          ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
+            alt="sid2709"
+            height="30"
+            width="40"
+        /></a>
+        <a href="https://twitter.com/sahoosidhant" target="blank"
+          ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            alt="sahoosidhant"
+            height="30"
+            width="40"
+        /></a>
+        <a href="https://codesandbox.com/sahoosidhant92" target="blank"
+          ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg"
+            alt="sahoosidhant92"
+            height="30"
+            width="40"
+        /></a>
+        <a href="https://fb.com/sidhant.sahoo.270992" target="blank"
+          ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+            alt="sidhant.sahoo.270992"
+            height="30"
+            width="40"
+        /></a>
+        <a href="https://instagram.com/2709sid" target="blank"
+          ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            alt="2709sid"
+            height="30"
+            width="40"
+        /></a>
+        <a href="https://medium.com/@sidhant1593" target="blank"
+          ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
+            alt="@sidhant1593"
+            height="30"
+            width="40"
+        /></a>
+        <a href="https://www.hackerrank.com/sidhant1593" target="blank"
+          ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+            alt="sidhant1593"
+            height="30"
+            width="40"
+        /></a>
+        <a href="https://www.leetcode.com/sidhant2709" target="blank"
+          ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+            alt="sidhant2709"
+            height="30"
+            width="40"
+        /></a>
+        <a href="https://www.hackerearth.com/@sidhant1593" target="blank"
+          ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg"
+            alt="@sidhant1593"
+            height="30"
+            width="40"
+        /></a>
 
 </div>
 
@@ -54,6 +294,10 @@ Dedicated full stack developer. Capable of writing production-ready code using R
 <hr>
 
 ![GitHub metrics](https://metrics.lecoq.io/sidhant2709)
+  
+<hr>
+  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidhant2709&" alt="sidhant2709" /></p>
 
 </div>
 
