@@ -55,10 +55,6 @@ Dedicated full stack developer. Capable of writing production-ready code using R
 
 ![GitHub metrics](https://metrics.lecoq.io/sidhant2709)
 
-<hr>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sidhant2709)
-
 </div>
 
 ![bottom](https://i.imgur.com/7eZjPnF.png)
