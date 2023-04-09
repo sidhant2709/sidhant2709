@@ -17,7 +17,7 @@ Dedicated full stack developer. Capable of writing production-ready code using R
 
 <hr>
 
-### 🛠 &nbsp;Primary Skills
+### 🛠 &nbsp;Primary Skills:
 <div align="left">
         <a
           href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
@@ -130,7 +130,7 @@ Dedicated full stack developer. Capable of writing production-ready code using R
 </div>
 <hr>
 
-### 🛠 &nbsp;Secondary Skills
+### 🛠 &nbsp;Secondary Skills:
 
 <div align="left" >
         <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
@@ -203,27 +203,11 @@ Dedicated full stack developer. Capable of writing production-ready code using R
             height="30"
             width="40"
         /></a>
-        <a href="https://codepen.io/sid2709" target="blank"
-          ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-            alt="sid2709"
-            height="30"
-            width="40"
-        /></a>
         <a href="https://twitter.com/sahoosidhant" target="blank"
           ><img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="sahoosidhant"
-            height="30"
-            width="40"
-        /></a>
-        <a href="https://codesandbox.com/sahoosidhant92" target="blank"
-          ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg"
-            alt="sahoosidhant92"
             height="30"
             width="40"
         /></a>
