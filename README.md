@@ -2,17 +2,17 @@
 
 ### Hi there 👋, I'm Sidhant
 
-#### I am an aspiring Full Stack Developer
+#### I am a Full Stack Developer
 
 <hr>
 
-[![I am an aspiring Full Stack Developer](Cover.png)](https://sidhant2709.github.io/)
+[![I am a Full Stack Developer](Cover.png)](https://sidhant2709.github.io/)
 
-Dedicated and aspiring full stack developer. Capable of writing production-ready code using React.js, Redux, and CSS on the frontend, NodeJS and Express on the backend to build single page applications. Passionate about coding and strongly interested in working in a product based company.
+Dedicated full stack developer. Capable of writing production-ready code using React.js, Redux, and CSS on the frontend, NodeJS and Express on the backend to build single page applications. Passionate about coding and strongly interested in working in a product based company.
 
 <hr>
 
-- 🌱 I’m currently learning Full Stack Web Develoment
+- 🌱 I’m currently Full Stack Web Develoment
 - 📫 How to reach me: sidhant1593@gmail.com
 
 <hr>
@@ -58,10 +58,6 @@ Dedicated and aspiring full stack developer. Capable of writing production-ready
 <hr>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sidhant2709)
-
-<hr>
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sidhant2709)
 
 </div>
 
