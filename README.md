@@ -12,14 +12,12 @@ Dedicated full stack developer. Capable of writing production-ready code using R
 
 <hr>
 
-- 🌱 I’m currently Full Stack Web Develoment
+- 🌱 I’m currently working as a Full Stack Web Developer at GlobalLogic
 - 📫 How to reach me: sidhant1593@gmail.com
 
 <hr>
 
 ### 🛠 &nbsp;Primary Skills
-
-
 <div align="left">
         <a
           href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
@@ -133,7 +131,6 @@ Dedicated full stack developer. Capable of writing production-ready code using R
 <hr>
 
 ### 🛠 &nbsp;Secondary Skills
-
 
 <div align="left" >
         <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
